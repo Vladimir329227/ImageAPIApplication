@@ -1,2 +1,2 @@
 build:
-  dockerfile: ./PV012DeployExampleApp/Dockerfile
+  dockerfile: ./ImageAPIApplication/Dockerfile
